@@ -1,0 +1,5 @@
+TEST FILE TXT
+
+Nama: Testing
+Status: Berjaya
+Mesej: Ini ialah file teks biasa.
