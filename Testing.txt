@@ -1,5 +1,5 @@
 TEST FILE TXT
 
 Nama: Testing
-Status: Berjaya
+Status: Berjaya masuk kedalam sistem
 Mesej: Ini ialah file teks biasa.
